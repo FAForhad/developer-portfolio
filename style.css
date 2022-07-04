@@ -11,6 +11,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 70px;
 }
 .half w{
     width: 50%;
@@ -18,16 +19,15 @@ section{
 }
 div img{
     width: 100%;
-    padding-right: 700px;
-
+    padding-right: 40vw;
 }
 .side{
     padding-left: 8%;
-    padding-right: 45%;
+    padding-right: 25%;
     text-align: justify;
 }
 a{
-    background-image: linear-gradient(ORANGE, rgb(212, 38, 38));
+   background-image: linear-gradient(ORANGE, rgb(212, 38, 38));
    text-decoration: none;
    color: aliceblue;
    font-weight: 600;
@@ -38,3 +38,18 @@ a{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.mid-benner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+ 
+img{
+    padding-right: 100px;
+    padding-top: 20PX;
+}
+.CLR{
+    color: coral;
+}.
+side-OK{ padding-left: 8%;
+    padding-right: 25%;
+    text-align: justify;}
